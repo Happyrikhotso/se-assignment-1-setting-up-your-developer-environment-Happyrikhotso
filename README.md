@@ -13,17 +13,27 @@ This assignment aims to familiarize you with the tools and configurations necess
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
+(../Users/hmony/Downloads/Windows11InstallationAssistant.exe)
+
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+
+   [text](<../Users/hmony/OneDrive/Desktop/Visual Studio Code.lnk>)
+
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+
+   [text](../Users/hmony/Downloads/GitHubDesktopSetup-x64.exe)
 
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
+  [text](../Users/hmony/Downloads/python-3.12.4-amd64.exe)
+
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
 
+[text](<../Users/hmony/Downloads/python-3.12.3-amd64 (1).exe>)
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
@@ -52,3 +62,6 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+[def]: ../Users/hmony/Downloads/Windows11InstallationAssistant.exe
